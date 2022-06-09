@@ -14,4 +14,4 @@ function findLastActiveItem() {
             $(this).addClass('last-active-item');
         }
     });
-}
+} 
